@@ -1,0 +1,10 @@
+.axis-label {
+  font-size: 14px;
+  fill: #5a3e2b;
+}
+
+#histogram svg {
+  background: #fffaf0;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
